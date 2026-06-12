@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "Store leads Grid Scraper",
+  "version": "1.0",
+  "description": "Scrapes Store Leads Vaadin grids and exports text and URLs to CSV.",
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "permissions": [
+    "activeTab",
+    "scripting"
+  ]
+}
