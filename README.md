@@ -1,4 +1,4 @@
-# Store Leads
+# Store Leads Extractor
 This is where shopify stores are listed. Best place to find ecom brands. 
 
 
